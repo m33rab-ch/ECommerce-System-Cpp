@@ -1,0 +1,36 @@
+name,price,category,stock,brand,description,purchases
+UltraHD TV,899.99,Electronics,50,Sony,55-inch 4K UHD Smart TV with HDR,120
+Wireless Earbuds,59.99,Electronics,200,Apple,AirPods with wireless charging case,300
+Running Shoes,129.99,Footwear,75,Nike,Comfortable running shoes with excellent support,80
+Espresso Machine,249.99,Home Appliances,30,Breville,Compact espresso machine with milk frother,50
+Gaming Laptop,1499.99,Computers,20,ASUS,High-performance laptop with NVIDIA graphics,25
+Yoga Mat,29.99,Fitness,100,Gaiam,Non-slip & eco-friendly yoga mat,150
+Blender,89.99,Kitchen Appliances,40,Ninja,High-speed blender for smoothies and more,70
+Office Chair,199.99,Furniture,60,Herman Miller,Ergonomic office chair with lumbar support,45
+Electric Toothbrush,79.99,Personal Care,120,Philips,Rechargeable toothbrush with multiple modes,200
+Smart Watch,199.99,Wearable Tech,90,Fitbit,Fitness tracker with heart rate monitor and GPS,110
+Laptop A,799.99,Electronics,50,BrandX,High performance laptop,200
+Phone B,499.99,Electronics,100,BrandY,Latest model smartphone,150
+Headphones C,99.99,Accessories,200,BrandZ,Noise-cancelling headphones,300
+Shoes D,69.99,Clothing,150,BrandA,Comfortable running shoes,120
+Watch E,199.99,Accessories,75,BrandB,Smartwatch with various features,80
+Tablet F,299.99,Electronics,60,BrandC,Lightweight tablet,110
+TV G,899.99,Electronics,30,BrandD,4K Ultra HD TV,90
+Camera H,450.99,Electronics,40,BrandE,DSLR camera,70
+Backpack I,49.99,Accessories,180,BrandF,Durable backpack,140
+Jacket J,120.99,Clothing,100,BrandG,Waterproof winter jacket,65
+Glasses K,79.99,Accessories,250,BrandH,Stylish sunglasses,210
+Keyboard L,45.99,Electronics,140,BrandI,Mechanical keyboard,85
+Mouse M,25.99,Electronics,160,BrandJ,Wireless mouse,95
+Speaker N,150.99,Electronics,80,BrandK,Bluetooth speaker,130
+Book O,19.99,Books,300,BrandL,Bestselling novel,250
+Pen P,2.99,Office Supplies,500,BrandM,Smooth writing pen,320
+Notebook Q,5.99,Office Supplies,450,BrandN,College ruled notebook,290
+Monitor R,199.99,Electronics,55,BrandO,27-inch computer monitor,75
+Desk S,150.99,Furniture,20,BrandP,Ergonomic office desk,45
+Chair T,89.99,Furniture,35,BrandQ,Comfortable office chair,60
+Lamp U,29.99,Home Decor,70,BrandR,LED desk lamp,50
+Fan V,39.99,Home Appliances,80,BrandS,Portable fan,40
+Blender W,59.99,Home Appliances,60,BrandT,High-speed blender,30
+Oven X,249.99,Home Appliances,25,BrandU,Convection oven,25
+Vacuum Y,199.99,Home Appliances,40,BrandV,Robotic vacuum cleaner,55
